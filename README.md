@@ -1,6 +1,6 @@
 # Data Analysis Challenge
 
-2016年7-8月開催予定の某組織Data Analysis Challengeの準備情報をまとめていきます。
+2016年7-8月開催予定の某組織Data Analysis Challengeの準備情報をまとめます。
 
 暫定スケジュール
 
