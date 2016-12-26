@@ -23,3 +23,6 @@
 |13 |　学会ポスタ発表「[DDBJデータ解析チャレンジ報告：機械学習コンペティションのタスク設計とルール設定] (http://www.slideshare.net/ekaminuma/20161201-ddbj)」   |   2016/12/1   | x   |
 
 <iframe src="https://calendar.google.com/calendar/embed?height=300&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=nig.ac.jp_knj9sgd3pg7ife7un233h265lg%40group.calendar.google.com&amp;color=%238C500B&amp;ctz=Asia%2FTokyo" style="border-width:0" width="600" height="300" frameborder="0" scrolling="no"></iframe>
+|14 | 論文準備とアンケート    |   2017/1/31   |   |
+|15 | 開催報告   |   2017/2/27   |    |
+|16 | 実施期間の終了     |   2017/3/31   |    |
